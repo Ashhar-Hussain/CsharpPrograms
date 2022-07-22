@@ -1,0 +1,8 @@
+C:\Users\AHR\source\repos\Programs\bin\Debug\Programs.exe.config
+C:\Users\AHR\source\repos\Programs\bin\Debug\Programs.exe
+C:\Users\AHR\source\repos\Programs\bin\Debug\Programs.pdb
+C:\Users\AHR\source\repos\Programs\obj\Debug\Programs.csproj.AssemblyReference.cache
+C:\Users\AHR\source\repos\Programs\obj\Debug\Programs.csproj.SuggestedBindingRedirects.cache
+C:\Users\AHR\source\repos\Programs\obj\Debug\Programs.csproj.CoreCompileInputs.cache
+C:\Users\AHR\source\repos\Programs\obj\Debug\Programs.exe
+C:\Users\AHR\source\repos\Programs\obj\Debug\Programs.pdb
