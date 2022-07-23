@@ -1,0 +1,8 @@
+C:\Users\AHR\source\repos\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\Users\AHR\source\repos\for\obj\Debug\for.csproj.SuggestedBindingRedirects.cache
+C:\Users\AHR\source\repos\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\AHR\source\repos\for\bin\Debug\@for.exe.config
+C:\Users\AHR\source\repos\for\bin\Debug\@for.exe
+C:\Users\AHR\source\repos\for\bin\Debug\@for.pdb
+C:\Users\AHR\source\repos\for\obj\Debug\@for.exe
+C:\Users\AHR\source\repos\for\obj\Debug\@for.pdb

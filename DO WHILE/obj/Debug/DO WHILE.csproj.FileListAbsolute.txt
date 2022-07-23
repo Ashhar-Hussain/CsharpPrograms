@@ -1,0 +1,8 @@
+C:\Users\AHR\source\repos\DO WHILE\obj\Debug\DO WHILE.csproj.AssemblyReference.cache
+C:\Users\AHR\source\repos\DO WHILE\obj\Debug\DO WHILE.csproj.SuggestedBindingRedirects.cache
+C:\Users\AHR\source\repos\DO WHILE\obj\Debug\DO WHILE.csproj.CoreCompileInputs.cache
+C:\Users\AHR\source\repos\DO WHILE\bin\Debug\DO WHILE.exe.config
+C:\Users\AHR\source\repos\DO WHILE\bin\Debug\DO WHILE.exe
+C:\Users\AHR\source\repos\DO WHILE\bin\Debug\DO WHILE.pdb
+C:\Users\AHR\source\repos\DO WHILE\obj\Debug\DO WHILE.exe
+C:\Users\AHR\source\repos\DO WHILE\obj\Debug\DO WHILE.pdb
