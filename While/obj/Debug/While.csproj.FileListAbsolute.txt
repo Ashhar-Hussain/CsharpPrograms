@@ -1,8 +1,0 @@
-C:\Users\AHR\source\repos\While\bin\Debug\While.exe.config
-C:\Users\AHR\source\repos\While\bin\Debug\While.exe
-C:\Users\AHR\source\repos\While\bin\Debug\While.pdb
-C:\Users\AHR\source\repos\While\obj\Debug\While.csproj.AssemblyReference.cache
-C:\Users\AHR\source\repos\While\obj\Debug\While.csproj.SuggestedBindingRedirects.cache
-C:\Users\AHR\source\repos\While\obj\Debug\While.csproj.CoreCompileInputs.cache
-C:\Users\AHR\source\repos\While\obj\Debug\While.exe
-C:\Users\AHR\source\repos\While\obj\Debug\While.pdb
